@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBA", "JBA\JBA.csproj", "{AD653EE3-B354-4B1F-9C68-6664B02F7068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBAUnitTest", "JBAUnitTest\JBAUnitTest.csproj", "{EB068946-7ACE-4DC1-BE0C-1030C3C2D590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD653EE3-B354-4B1F-9C68-6664B02F7068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD653EE3-B354-4B1F-9C68-6664B02F7068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD653EE3-B354-4B1F-9C68-6664B02F7068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD653EE3-B354-4B1F-9C68-6664B02F7068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB068946-7ACE-4DC1-BE0C-1030C3C2D590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB068946-7ACE-4DC1-BE0C-1030C3C2D590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB068946-7ACE-4DC1-BE0C-1030C3C2D590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB068946-7ACE-4DC1-BE0C-1030C3C2D590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F523B1DC-F3EC-4AEC-885F-7935E334168E}
+	EndGlobalSection
+EndGlobal
